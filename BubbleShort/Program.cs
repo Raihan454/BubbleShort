@@ -8,8 +8,13 @@ namespace BubbleShort
 {
     internal class Program
     {
+        int a;
+     
+
         static void Main(string[] args)
         {
+            Console.WriteLine("Coba");
+            Console.Read();
         }
     }
-}
+} 
