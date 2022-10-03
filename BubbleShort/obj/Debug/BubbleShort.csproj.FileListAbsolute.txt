@@ -1,0 +1,8 @@
+C:\Users\Rey\source\repos\BubbleShort\BubbleShort\obj\Debug\BubbleShort.csproj.AssemblyReference.cache
+C:\Users\Rey\source\repos\BubbleShort\BubbleShort\obj\Debug\BubbleShort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rey\source\repos\BubbleShort\BubbleShort\obj\Debug\BubbleShort.csproj.CoreCompileInputs.cache
+C:\Users\Rey\source\repos\BubbleShort\BubbleShort\bin\Debug\BubbleShort.exe.config
+C:\Users\Rey\source\repos\BubbleShort\BubbleShort\bin\Debug\BubbleShort.exe
+C:\Users\Rey\source\repos\BubbleShort\BubbleShort\bin\Debug\BubbleShort.pdb
+C:\Users\Rey\source\repos\BubbleShort\BubbleShort\obj\Debug\BubbleShort.exe
+C:\Users\Rey\source\repos\BubbleShort\BubbleShort\obj\Debug\BubbleShort.pdb
